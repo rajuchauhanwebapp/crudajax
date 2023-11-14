@@ -1,0 +1,8 @@
+.alert-success, .alert-warning, .alert-danger
+{
+   display: none;
+}
+
+.alert-dismissible .btn-close {
+   font-size: small;
+}
